@@ -12,3 +12,7 @@
 	df = diff
 	pl = pull
 	ps = push
+	rs = reset
+	mg = merge
+	unstage = reset HEAD --
+	last = log -1 HEAD
