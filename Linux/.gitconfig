@@ -1,0 +1,14 @@
+# This is Git's per-user configuration file.
+[core]
+	editor = vim
+[user]
+	name = nbystndr
+	email = nobystander@live.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	df = diff
+	pl = pull
+	ps = push
