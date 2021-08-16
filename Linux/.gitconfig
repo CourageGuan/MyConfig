@@ -3,7 +3,7 @@
 	editor = vim
 [user]
 	name = nbystndr
-	email = nobystander@live.com
+	email = nobystander#live.com
 [alias]
 	co = checkout
 	br = branch
